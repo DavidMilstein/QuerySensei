@@ -1,6 +1,6 @@
 # 🧠 QuerySensei
 
-QuerySensei is your personal data analysis assistant, powered by AI.  
+QuerySensei is your data analysis assistant, powered by AI.  
 Upload a CSV file or connect to BigQuery, ask questions in natural language, and get smart, visual, and actionable answers.
 
 ---
@@ -18,7 +18,7 @@ Core functionality is being implemented first, including:
 - Interpreting natural language questions with Vertex AI  
 - Running data analysis and visualizations with Python  
 
-As the project progresses, features may be added, removed, or changed based on insights and technical constraints.
+Features may be added, removed, or changed as the project progresses based on insights and technical constraints.
 
 ---
 ## ✨ Features
@@ -133,7 +133,20 @@ Create a `.env` file based on `.env.example`.
 
 Feel free to fork, star, or submit issues and pull requests.
 
-If you have suggestions, ideas, or improvements, contributions are always welcome!
+Contributions are always welcome if you have suggestions, ideas, or improvements!
+
+---
+
+## 🤖 GPT Assistant
+
+This project is supported by a custom-built GPT called **QuerySensei Dev Assistant**.
+
+The assistant is optimized for:
+- Helping with Streamlit, Python, and Vertex AI integration
+- Planning features and breaking down technical tasks
+- Acting as a personal AI dev partner for this project
+
+You can read more about it or try it here: [[link-to-your-gpt-if-public](https://chatgpt.com/g/g-6836be88a7008191ab70b1b6b7ff05f1-querysensei-dev-assistant)]
 
 ---
 
